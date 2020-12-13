@@ -1,13 +1,11 @@
-use_frameworks!
+source 'https://git.epam.com/anton_babich/podspec.git'
+source 'https://cdn.cocoapods.org/'
 
 platform :ios, '9.0'
 
 target 'Library2_Example' do
-  pod 'Library2', :path => '../'
+  use_frameworks!
 
-  target 'Library2_Tests' do
-    inherit! :search_paths
+  pod 'Library1'
 
-    
-  end
 end

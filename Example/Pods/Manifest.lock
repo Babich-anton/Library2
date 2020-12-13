@@ -1,0 +1,16 @@
+PODS:
+  - Library2 (0.1.0)
+
+DEPENDENCIES:
+  - Library2 (from `../`)
+
+EXTERNAL SOURCES:
+  Library2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Library2: 9892b3199950aacb8fa1cb3af8c42df006a8f894
+
+PODFILE CHECKSUM: b2337f5d6d046d72af515bda2ab5ec2520ca1c78
+
+COCOAPODS: 1.8.4
