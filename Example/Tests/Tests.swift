@@ -1,5 +1,4 @@
 import XCTest
-import Library2
 
 class Tests: XCTestCase {
     

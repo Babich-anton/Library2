@@ -4,20 +4,17 @@ PODS:
     - Library1
 
 DEPENDENCIES:
-  - Library2 (from `../`)
+  - Library2
 
 SPEC REPOS:
   https://git.epam.com/anton_babich/podspec.git:
     - Library1
-
-EXTERNAL SOURCES:
-  Library2:
-    :path: "../"
+    - Library2
 
 SPEC CHECKSUMS:
   Library1: 480bfeea48f61634204706eaea4905a0e49fe8fc
-  Library2: 3aba14f76a53c9dd3c489287add2a66b56e32d0d
+  Library2: eb6c0607fc12ea2b9e4c82eada67ff7fa374f143
 
-PODFILE CHECKSUM: d3a79ad7d68c10acdc1f18c0731f0515deb789a4
+PODFILE CHECKSUM: 70252ef0622b56894eb6e9c542e32bf43872532c
 
 COCOAPODS: 1.8.4

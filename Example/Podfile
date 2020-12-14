@@ -6,8 +6,8 @@ platform :ios, '9.0'
 target 'Library2_Example' do
   use_frameworks!
 
-  pod 'Library2', :path => '../'
-#  pod 'Library2
+#  pod 'Library2', :path => '../'
+  pod 'Library2'
 #  pod 'Library1'
 #  pod 'Library1', :path => '../../Library1/'
 
