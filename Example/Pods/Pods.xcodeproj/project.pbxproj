@@ -62,7 +62,7 @@
 		BCA9BBAD0E2B998139A16E2850091001 /* Pods-Library2_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Library2_Example-umbrella.h"; sourceTree = "<group>"; };
 		BD163AEF759FF03ED153C2485516A179 /* Pods-Library2_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Library2_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		BDFFED535496349166576BE065CAFEA7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		CF6AEA802586E11A000A39CC /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
+		CF6AEA802586E11A000A39CC /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Main.swift; path = Library2/Classes/Main.swift; sourceTree = "<group>"; };
 		D2450C9AC7BAA6DE57E1AB1978E0348E /* Pods-Library2_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Library2_Example.modulemap"; sourceTree = "<group>"; };
 		DA175CB88329948BF4DC3CC3A8FD4D8E /* Pods-Library2_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Library2_Tests-dummy.m"; sourceTree = "<group>"; };
 		E76A280B05E4E8E041E8E8FBD368D9A5 /* Library2.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Library2.modulemap; sourceTree = "<group>"; };
