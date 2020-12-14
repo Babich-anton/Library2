@@ -6,14 +6,14 @@
 //  Copyright (c) 2020 antosha.1998.ru@mail.ru. All rights reserved.
 //
 
-import UIKit
 import Library2
+import UIKit
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        Main.prints()
+        Main2.prints()
     }
 }
